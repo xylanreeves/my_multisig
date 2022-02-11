@@ -1,0 +1,9 @@
+{
+  "name": "my_multisig",
+  "version": "1.0.0",
+  "description": "personal multisig",
+  "main": "index.js",
+  "repository": "https://github.com/xylanreeves/my_multisig",
+  "author": "xylan reeves",
+  "license": "MIT"
+}
